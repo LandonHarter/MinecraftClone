@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 07163d19f3577974ca882ee97c9dbf0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5090226273591449820
+    second: Break Block_0
+  - first:
+      213: -3738814160154495702
+    second: Break Block_1
+  - first:
+      213: -3521910193747310657
+    second: Break Block_2
+  - first:
+      213: -8480560684401920727
+    second: Break Block_3
+  - first:
+      213: -5571466775874485494
+    second: Break Block_4
+  - first:
+      213: -6488469566148363630
+    second: Break Block_5
+  - first:
+      213: 3772893130207256934
+    second: Break Block_6
+  - first:
+      213: 4524928927589762081
+    second: Break Block_7
+  - first:
+      213: -2367345088090967797
+    second: Break Block_8
+  - first:
+      213: -9065830938599423584
+    second: Break Block_9
+  - first:
+      213: 3423862967426577599
+    second: Break Block_10
+  - first:
+      213: 2487238067161371222
+    second: Break Block_11
+  - first:
+      213: 4301624209920718919
+    second: Break Block_12
+  - first:
+      213: -6158736088228126520
+    second: Break Block_13
+  - first:
+      213: 6842230265704361365
+    second: Break Block_14
+  - first:
+      213: -2473061483715018859
+    second: Break Block_15
+  - first:
+      213: 8244211642218871190
+    second: Break Block_16
+  - first:
+      213: 5259278836833251600
+    second: Break Block_17
+  - first:
+      213: 7230706145442635849
+    second: Break Block_18
+  - first:
+      213: 4284216538566327735
+    second: Break Block_19
+  - first:
+      213: 3164781784236143182
+    second: Break Block_20
+  - first:
+      213: -1211228151079268172
+    second: Break Block_21
+  - first:
+      213: -2576746611334090127
+    second: Break Block_22
+  - first:
+      213: 5579552099220060409
+    second: Break Block_23
+  - first:
+      213: -4212438590369775646
+    second: Break Block_24
+  - first:
+      213: 5247844970226435621
+    second: Break Block_25
+  - first:
+      213: 1346375179928890588
+    second: Break Block_26
+  - first:
+      213: 6489688913930243373
+    second: Break Block_27
+  - first:
+      213: 4012080500816126975
+    second: Break Block_28
+  - first:
+      213: -7550392334989868736
+    second: Break Block_29
+  - first:
+      213: 7664337010330546652
+    second: Break Block_30
+  - first:
+      213: 7096259788313007336
+    second: Break Block_31
+  - first:
+      213: -686175705829932609
+    second: Break Block_32
+  - first:
+      213: -3320209993287534200
+    second: Break Block_33
+  - first:
+      213: 9116314179175707930
+    second: Break Block_34
+  - first:
+      213: 2632846561330317476
+    second: Break Block_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 31, y: 21, z: 23, w: 40}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Break Block_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a8306c22eb59b0800000000000000
+      internalID: -5090226273591449820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a257ac694501d1cc0800000000000000
+      internalID: -3738814160154495702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb74dd2b659af1fc0800000000000000
+      internalID: -3521910193747310657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925741e4dfefe4a80800000000000000
+      internalID: -8480560684401920727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a034c1a7c7c2ea2b0800000000000000
+      internalID: -5571466775874485494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a3bc59e4354f5a0800000000000000
+      internalID: -6488469566148363630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 23
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661e381ff420c5430800000000000000
+      internalID: 3772893130207256934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 23
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12480e2b2e6cbce30800000000000000
+      internalID: 4524928927589762081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 24
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0172936f20852fd0800000000000000
+      internalID: -2367345088090967797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Block_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 23
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1090f4bc2bf2280800000000000000
+      internalID: -9065830938599423584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

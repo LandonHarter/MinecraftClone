@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604863bef2f81714b90b56811bb2841f, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  biomeName: Forest
+  offset: 512632
+  scale: 0.058
+  solidGroundHeight: 17
+  terrainHeight: 17
+  terrainScale: 0.07
+  surfaceBlock: 3
+  subSurfaceBlock: 5
+  subsurfaceBlockHeight: 5
+  lodes:
+  - nodeName: Caves
+    blockID: 0
+    minHeight: 0
+    maxHeight: 0
+    scale: 0.1
+    threshold: 0.55
+    noiseOffset: 43534
+  - nodeName: Coal Ore
+    blockID: 13
+    minHeight: 5
+    maxHeight: 65
+    scale: 0.18
+    threshold: 0.72
+    noiseOffset: 43534
+  - nodeName: Iron Ore
+    blockID: 16
+    minHeight: 5
+    maxHeight: 55
+    scale: 0.3
+    threshold: 0.7
+    noiseOffset: 15
+  - nodeName: Gold Ore
+    blockID: 15
+    minHeight: 5
+    maxHeight: 30
+    scale: 0.23
+    threshold: 0.75
+    noiseOffset: 43534
+  - nodeName: Diamond Ore
+    blockID: 14
+    minHeight: 8
+    maxHeight: 16
+    scale: 0.18
+    threshold: 0.72
+    noiseOffset: 9853
+  majorFloraIndex: 0000000003000000
+  majorFloraZoneScale: 1.3
+  majorFloraZoneThreshold: 0.6
+  majorFloraPlacementScale: 15
+  majorFloraPlacementThreshold: 0.8
+  minHeight: 5
+  maxHeight: 12
+  placeMajorFlora: 1
